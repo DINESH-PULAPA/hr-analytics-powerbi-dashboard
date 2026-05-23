@@ -15,8 +15,7 @@ data/processed/
 *.pbix
 
 # Images
-Images/screenshots/*.png
-Images/screenshots/*.jpg
+# Images
 
 # OS
 .DS_Store
