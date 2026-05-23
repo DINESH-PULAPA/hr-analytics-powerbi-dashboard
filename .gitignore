@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+/.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/raw/
+data/processed/
+*.pbix
+
+# Images
+Images/screenshots/*.png
+Images/screenshots/*.jpg
+
+# OS
+.DS_Store
+Thumbs.db
