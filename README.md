@@ -12,9 +12,12 @@ DAX measures used
 - See `docs/dax_measures.md` for the exact formulas used in the dashboard.
 
 Embed your screenshot
-Place your Power BI screenshot at `Images/screenshots/dashboard.png` then add it to the repo.
+Place your Power BI screenshot at `Images/screenshots/Screenshot 2026-05-23 075801.png` then add it to the repo.
 
-![Dashboard](Images/screenshots/dashboard.png)
+Embed a preview image
+If you haven't added your own screenshot yet, the README shows an available preview image from the repo. To use your own screenshot, place it at `Images/screenshots/Screenshot 2026-05-23 075801.png` and commit it.
+
+![Dashboard](Images/Attrition.png)
 
 How to push the project to GitHub
 See `docs/push.md` for step-by-step commands.
@@ -22,4 +25,4 @@ See `docs/push.md` for step-by-step commands.
 Notes and tips
 - Keep raw data in `data/raw/` and processed exports in `data/processed/`.
 - Move reusable Python helpers into `src/` when needed.
-- Add `Images/screenshots/dashboard.png` to show the dashboard preview on GitHub.
+- Add `Images/screenshots/Screenshot 2026-05-23 075801.png` to show the dashboard preview on GitHub.
