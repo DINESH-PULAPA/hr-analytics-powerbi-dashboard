@@ -17,7 +17,7 @@ Place your Power BI screenshot at `Images/screenshots/Screenshot 2026-05-23 0758
 Embed a preview image
 If you haven't added your own screenshot yet, the README shows an available preview image from the repo. To use your own screenshot, place it at `Images/screenshots/Screenshot 2026-05-23 075801.png` and commit it.
 
-![Dashboard](Images/Attrition.png)
+![Dashboard](Images/screenshots/Screenshot%202026-05-23%20075801.png)
 
 How to push the project to GitHub
 See `docs/push.md` for step-by-step commands.
